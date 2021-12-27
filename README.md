@@ -1,6 +1,6 @@
 # Chisel Hive
 - Playground for playing w/ CHISEL
-- Lab for experimenting w/ CHISEL
+- Lab for experimenting on CHISEL
 - Vault for dumping logics of CHISEL
 
 ------
