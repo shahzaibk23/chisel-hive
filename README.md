@@ -1,1 +1,1 @@
-# chisel-hive
+# Chisel Hive
